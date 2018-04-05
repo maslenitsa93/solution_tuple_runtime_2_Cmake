@@ -1,0 +1,3 @@
+D:/Desktop/RuntimeTuple(CMake)/CMakeFiles/ConsoleApplication1.dir
+D:/Desktop/RuntimeTuple(CMake)/CMakeFiles/ALL_BUILD.dir
+D:/Desktop/RuntimeTuple(CMake)/CMakeFiles/ZERO_CHECK.dir
